@@ -1,0 +1,4 @@
+dependencies {
+    // ... other dependencies
+    implementation files('libs/cordova-generic-ad.jar')
+}
